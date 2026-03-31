@@ -1,144 +1,105 @@
-<div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="128" height="128" alt="Flow Minimal Launcher icon" style="border-radius: 24px; box-shadow: 0 10px 30px -10px #3DDC84; margin-bottom: 16px;">
-  
-  <h1 style="font-size: 3.2rem; margin: 0; font-weight: 700; letter-spacing: -2px;">Flow Minimal Launcher</h1>
-  
-  <p style="font-size: 1.4rem; color: #3DDC84; margin: 8px 0 20px 0;">
-    <strong>Your apps. Your clock. Your wallpaper.</strong>
-  </p>
+---
+# 🌑 Minimal Launcher
+### *Design for Focus. Reclaim Your Mind.*
 
-  ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-  ![Min SDK](https://img.shields.io/badge/min_sdk-23-4A90D9?style=for-the-badge)
-  ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
-  ![Version](https://img.shields.io/badge/version-V3-3DDC84?style=for-the-badge)
-
-  <img src="public/image/image.jpg" alt="Flow Minimal Launcher Preview" style="max-width: 100%; border-radius: 20px; margin: 24px 0; box-shadow: 0 20px 40px -20px rgba(61, 220, 132, 0.4);">
-</div>
-
-<!-- ==================== TOMBOL GANTI BAHASA ==================== -->
-<div align="center" style="margin: 32px 0 40px 0; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-  
-  <!-- Button English -->
-  <a href="#english" 
-     style="display: inline-flex; align-items: center; gap: 8px; padding: 14px 32px; background: #3DDC84; color: #0f172a; font-size: 1.2rem; font-weight: 700; border-radius: 9999px; text-decoration: none; box-shadow: 0 10px 30px -10px #3DDC84;">
-    🇬🇧 English
-  </a>
-  
-  <!-- Button Bahasa Indonesia -->
-  <a href="#indonesia" 
-     style="display: inline-flex; align-items: center; gap: 8px; padding: 14px 32px; background: #181717; color: white; font-size: 1.2rem; font-weight: 700; border-radius: 9999px; text-decoration: none; border: 2px solid #3DDC84;">
-    🇮🇩 Bahasa Indonesia
-  </a>
-
-</div>
-
-<!-- ==================== VERSI ENGLISH ==================== -->
-<div id="english">
-
-<div align="center">
-
-| **Home**                  | **Drawer**                          | **Feed**                          |
-|---------------------------|-------------------------------------|-----------------------------------|
-| Clock · Date · Weather    | Alphabetical + Live Search          | Tasks · Calendar · Screen Time    |
-| **Jam · Tanggal · Cuaca** | **Alfabet + Pencarian Langsung**    | **Tugas · Kalender · Screen Time**|
-
-</div>
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Platform: Android](https://img.shields.io/badge/Platform-Android-000000.svg?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Aesthetic: Nothing OS](https://img.shields.io/badge/Style-Nothing–Inspired-white.svg?style=for-the-badge)](#)
 
 ---
 
-## ✨ Features
+## 🌪️ Why Minimal Launcher?
 
-- **Clean Home Screen** — Clock, date, and weather with premium typography  
-- **Smart App Access** — Pinned or most-used apps directly on home  
-- **Lightning Fast Drawer** — Alphabetical list + real-time search  
-- **Productivity Feed** — Calendar events, tasks, and screen time insights  
-- **Full Transparent Support** — Works perfectly with live wallpapers  
-- **Lightweight & Fast** — High performance, minimal permissions  
+In a world flooded with relentless notifications and endless digital noise, your phone has quietly become a battlefield for your attention.  
 
----
+**Minimal Launcher** is not just another home screen.  
+It is a quiet revolution — a deliberate return to clarity, calm, and control.
 
-## 🚀 Install (30 Seconds)
-
-1. Click **Download APK** button below  
-2. Allow installation from unknown sources  
-3. Open Flow → **Set as Default Launcher**
-
-> **Pro Tip:** Press Home button twice anytime to return to Flow.
-
-<a href="https://github.com/01satria/LauncherAppv3/releases/latest" 
-   style="display: inline-block; padding: 16px 32px; background: #3DDC84; color: #0f172a; font-size: 1.3rem; font-weight: 700; border-radius: 9999px; text-decoration: none; box-shadow: 0 10px 30px -10px #3DDC84;">
-  📥 Download APK Now
-</a>
-
-</div>
-
-<!-- ==================== VERSI BAHASA INDONESIA ==================== -->
-<div id="indonesia">
-
-<div align="center">
-
-| **Home**                  | **Drawer**                          | **Feed**                          |
-|---------------------------|-------------------------------------|-----------------------------------|
-| Clock · Date · Weather    | Alphabetical + Live Search          | Tasks · Calendar · Screen Time    |
-| **Jam · Tanggal · Cuaca** | **Alfabet + Pencarian Langsung**    | **Tugas · Kalender · Screen Time**|
-
-</div>
+Inspired by the pure elegance of **Nothing OS**, every detail has been crafted to disappear when you don’t need it, and appear exactly when you do. We don’t want you spending *more* time on your phone. We want you to spend your time *better* — with presence, purpose, and peace.
 
 ---
 
-## ✨ Fitur Utama
+## ✨ The Wow Factors
 
-- **Layar Home Bersih** — Jam, tanggal, dan cuaca dengan tipografi premium  
-- **Akses Aplikasi Pintar** — Aplikasi yang dipin atau paling sering dipakai langsung di home  
-- **Laci Aplikasi Super Cepat** — Daftar alfabet + pencarian langsung (real-time)  
-- **Feed Produktivitas** — Event kalender, daftar tugas, dan insight screen time  
-- **Dukungan Background Transparan** — Cocok sempurna dengan live wallpaper  
-- **Ringan & Cepat** — Performa tinggi, izin minimal, hemat baterai  
+### 🏝️ Intelligence+ Pill Bar  
+*The living heart of Minimal Launcher.*
 
----
+A single, graceful bar that intuitively adapts to the rhythm of your life using context-aware intelligence. No clutter. No guessing. Just the right information at the right moment.
 
-## 🚀 Cara Install (30 Detik)
+- **Morning Glow** — Weather, sunrise time, and a gentle motivational whisper to set the tone.  
+- **Flow State** — Upcoming calendar events, focus timers, and priority tasks.  
+- **Digital Wellness** — Real-time screen-time awareness to protect your attention.  
+- **Night Wind-Down** — Smart prompts for rest, breathing exercises, and tomorrow’s preview.  
+- **New! News & Finance** — Curated headlines and instant financial snapshots, elegantly presented.
 
-1. Klik tombol **Download APK** di bawah  
-2. Izinkan instalasi dari sumber tidak dikenal  
-3. Buka Flow → **Set as Default Launcher**
+### 📊 Habits & Progress Tracking  
+Your launcher should lift you higher.  
 
-> **Tips Pro:** Tekan tombol Home dua kali kapan saja untuk kembali ke Flow.
+Watch your growth bloom with a beautiful **contribution heatmap** right on the home screen. Tap any habit directly from the Pill Bar to mark it complete — no app-switching, no friction.
 
-<a href="https://github.com/01satria/LauncherAppv3/releases/latest" 
-   style="display: inline-block; padding: 16px 32px; background: #3DDC84; color: #0f172a; font-size: 1.3rem; font-weight: 700; border-radius: 9999px; text-decoration: none; box-shadow: 0 10px 30px -10px #3DDC84;">
-  📥 Download APK Sekarang
-</a>
+### 💰 Money Manager Integration  
+The first launcher that truly cares about your wallet.  
 
-</div>
+Real-time income & expense widgets appear only when relevant, giving you effortless financial clarity without ever leaving your home screen.
 
----
+### 📱 Adaptive App Drawer  
+Choose your rhythm.  
 
-## 👨‍💻 Author
+- **List Mode** — Lightning-fast alphabetical flow for power users.  
+- **Grid Mode** — Large, breathing icons for those who crave beauty.  
 
-<div align="center">
-  <a href="https://github.com/01satria">
-    <img src="https://github.com/01satria.png" width="100" height="100" style="border-radius: 50%; border: 4px solid #3DDC84;">
-  </a>
-  
-  <h3>Satria Bagus</h3>
-  <p style="color:#3DDC84">Built with ❤️ in Indonesia</p>
-  
-  <a href="https://github.com/01satria" 
-     style="display: inline-block; padding: 12px 24px; background: #181717; color: white; border-radius: 9999px; text-decoration: none; font-weight: 600;">
-    GitHub Profile
-  </a>
-</div>
+Dynamic search surfaces apps instantly, exactly as your mind expects.
 
 ---
 
-**Minimal. Elegant. Yours.**  
-**MIT License** • Android 6.0+ • V3
+## 🎨 The Art of Simplicity
+
+We obsess over every pixel so you never have to.  
+
+- **Dot-Matrix Typography** — Retro soul meets modern precision.  
+- **True OLED Black** — Deeper than night, kinder to your battery.  
+- **Essential Iconography** — Stripped to pure meaning, free of visual noise.
+
+The result? A home screen that feels like a breath of fresh air in a crowded digital world.
 
 ---
 
-**Cara pakai tombol ganti bahasa:**  
-Cukup klik tombol **🇬🇧 English** atau **🇮🇩 Bahasa Indonesia** di atas → halaman akan langsung loncat ke versi bahasa yang dipilih. Semua tombol download dan GitHub tetap berfungsi di kedua bahasa.
+## 🛠️ Installation
 
-**Langsung copy seluruh kode di atas** ke file `README.md` kamu. Sudah 100% berjalan di GitHub!  
-Mau saya tambahkan tombol “Star” atau preview 3 layar dalam grid juga? Bilang saja.
+### Prerequisites
+- Android 8.0 (Oreo) or higher  
+- Android Studio (latest stable) for development (optional)
+
+---
+
+## 🤝 Contribute
+
+This project is an open letter to the open-source community — an invitation to build technology that feels *human* again.
+
+Found a way to make it even more graceful?  
+Your ideas are welcome.
+
+1. **Fork** the repository  
+2. Create a **feature branch** (`git checkout -b feature/your-idea`)  
+3. **Commit** your magic (`git commit -m 'Add something beautiful'`)  
+4. **Push** (`git push origin feature/your-idea`)  
+5. Open a **Pull Request**
+
+---
+
+## 🖤 Our Philosophy
+
+> *"Simplicity is the ultimate sophistication."*  
+> — Leonardo da Vinci
+
+Minimal Launcher isn’t about adding more.  
+It’s about removing everything until only what truly matters remains.
+
+**Less noise. More life.**
+
+---
+
+**Crafted with quiet passion by [01satria](https://github.com/01satria).**  
+
+Thank you for choosing focus in a distracted world.  
+Welcome home. 🌑
