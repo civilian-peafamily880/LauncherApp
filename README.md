@@ -10,7 +10,7 @@
 *Inspired by the quiet elegance of Nothing OS.*
 
 
-![preview](public/image/image.png)
+<img src="public/image/image.png" alt="preview" width="900" height="600" />
 
 <br/>
 
