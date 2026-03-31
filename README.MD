@@ -24,9 +24,10 @@
 
 <div align="center">
 
-<div style="display: grid; grid-template-columns: repeat(2, 340px); gap: 30px; justify-content: center;">
+<!-- FLEX GRID 2×2 (GitHub-compatible) -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 740px;">
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
 <br/>
 
 ### `01` — Intelligence+ Pill Bar
@@ -36,7 +37,7 @@ A single adaptive bar that surfaces what matters — weather in the morning, you
 <br/>
 </td></tr></table>
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
 <br/>
 
 ### `02` — Habit Heatmap
@@ -46,7 +47,7 @@ Track your streaks with a contribution heatmap right on the home screen. Mark ha
 <br/>
 </td></tr></table>
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
 <br/>
 
 ### `03` — Money Manager
@@ -56,7 +57,7 @@ Income and expense widgets that appear only when relevant. Financial clarity wit
 <br/>
 </td></tr></table>
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
 <br/>
 
 ### `04` — Adaptive App Drawer
