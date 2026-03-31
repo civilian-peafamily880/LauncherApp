@@ -2,7 +2,7 @@
 
 <br/>
 
-🌑
+<img src="public/image/ic_launcher.png" width="96" alt="Flow Launcher icon" />
 
 # Minimal Flow Launcher
 
