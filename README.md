@@ -4,10 +4,10 @@
 
 🌑
 
-# Minimal Launcher
+# Minimal Flow Launcher
 
 *A home screen built around clarity.*
-*Inspired by the quiet elegance of Nothing OS.*
+*Inspired by the quiet elegance of Cloudys OS.*
 
 
 <img src="public/image/image.png" alt="preview" width="800" height="500" />
@@ -16,7 +16,7 @@
 
 ![Android](https://img.shields.io/badge/🤖_Android-8.0%2B-0a1f3a?style=flat-square&logoColor=white)
 ![License](https://img.shields.io/badge/⚖️_License-MIT-1a0a2e?style=flat-square)
-![Style](https://img.shields.io/badge/◉_Style-Nothing_OS-2e0a0a?style=flat-square)
+![Style](https://img.shields.io/badge/◉_Style-Cloudys_OS-2e0a0a?style=flat-square)
 ![Open Source](https://img.shields.io/badge/🌿_Open-Source-0a1f1a?style=flat-square)
 
 <br/>
