@@ -10,6 +10,7 @@
 *Inspired by the quiet elegance of Nothing OS.*
 
 <br/>
+![preview](public/image/image.jpg)
 
 ![Android](https://img.shields.io/badge/🤖_Android-8.0%2B-0a1f3a?style=flat-square&logoColor=white)
 ![License](https://img.shields.io/badge/⚖️_License-MIT-1a0a2e?style=flat-square)
