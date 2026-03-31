@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="680" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
 <br/>
 
 ### `01` — Intelligence+ Pill Bar
@@ -36,7 +36,7 @@ A single adaptive bar that surfaces what matters — weather in the morning, you
 
 <br/>
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="680" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
 <br/>
 
 ### `02` — Habit Heatmap
@@ -48,7 +48,7 @@ Track your streaks with a contribution heatmap right on the home screen. Mark ha
 
 <br/>
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="680" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
 <br/>
 
 ### `03` — Money Manager
