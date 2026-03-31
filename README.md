@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
 
-<a href="https://link-download-mu-disini">
+<a href="https://github.com/01satria/LauncherAppv3/releases/tag/1.1BETA">
   <img src="https://img.shields.io/badge/Download%20Now-000000?style=for-the-badge&logo=android&logoColor=white&color=FF4D94" alt="Download">
 </a>
 
