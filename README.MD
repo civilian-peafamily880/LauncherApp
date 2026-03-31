@@ -69,7 +69,7 @@
 
 🔡 `Dot-Matrix Typography` &nbsp;·&nbsp; ⬛ `True OLED Black` &nbsp;·&nbsp; ✦ `Essential Iconography`
 
-*Every element earns its place — or disappears.*
+*Every element earns its place or disappears.*
 
 </div>
 
