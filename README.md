@@ -11,7 +11,7 @@
 *Inspired by the quiet elegance of OneUI and Origin OS.*
 <br/>
 
-<img src="public/image/image.png" alt="preview" width="800" height="500" />
+<img src="public/image/image.png" alt="preview" width="700" height="400" />
 
 <br/>
 
