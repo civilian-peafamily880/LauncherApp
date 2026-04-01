@@ -119,13 +119,11 @@
 ---
 
 <div align="center">
-
-<br/>
-
  *"Simplicity is the ultimate sophistication."* ✦ Leonardo da Vinci
 
 <br/>
-
-Crafted with quiet passion by [01satria](https://github.com/01satria) 🌑
-
 </div>
+<p align="center">
+  <i>© 2026 See.Cloudys Team — All rights reserved</i><br/>
+  <sub>Private Launcher • Not for redistribution • Public Beta</sub>
+</p>
