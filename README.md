@@ -111,6 +111,22 @@
 </div>
 
 ---
+### ⚠️ Google Play Protect Warning
+Google Play Protect may flag this APK as an unrecognized app because it is not distributed through the Google Play Store. Rest assured, this app is **completely safe**. If you encounter any issues during your first installation, please follow these steps:
+
+1. **Temporarily Disable Play Protect**  
+   You may need to pause or temporarily turn off Google Play Protect to allow the initial installation to proceed smoothly.
+
+2. **Bypass the Warning**  
+   If the security warning appears, tap on **More details**, then select **Install anyway**.
+
+3. **Scan for Viruses (Optional)**  
+   If you are concerned about malware, you can safely re-enable Google Play Protect after the installation is successful and run a scan to verify the app's safety yourself.
+
+
+### 🔒 Privacy & Security Guarantee
+This application **does not** collect, extract, share, or misuse any of your personal data. It is built purely for its intended functionality with the utmost respect for your device's security and your privacy.
+---
 
 <div align="center">
 <i>Simplicity is the ultimate sophistication</i> ✦ Leonardo da Vinci
