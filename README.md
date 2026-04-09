@@ -4,7 +4,7 @@
 
 <img src="public/image/ic_launcher.png" width="96" alt="Flow Launcher icon" />
 
-# Minimal Flow Launcher - **BETA**
+# Flow Launcher - **BETA**
 
 <img src="public/image/image.png" alt="preview" width="800" height="500" />
 
