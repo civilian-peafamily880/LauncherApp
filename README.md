@@ -151,8 +151,8 @@ Google Play Protect may flag this APK as an unrecognized app because it is not d
 ### 🔒 Privacy & Security Guarantee
 
  This application **does not** collect, extract, share, or misuse any of your personal data. It is built purely for its intended functionality with the utmost respect for your device's security and your privacy.
----
 
+---
 <div align="center">
 <i>Simplicity is the ultimate sophistication</i> ✦ Leonardo da Vinci
 
