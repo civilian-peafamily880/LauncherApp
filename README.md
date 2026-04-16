@@ -71,12 +71,12 @@
     <td align="center" width="340" bgcolor="#2e1a2e">
       <br/>
       🕒<br/>
-      <b><code>05</code> Custom Clock</b><br/><br/>
+      <b><code>07</code> Custom Clock</b><br/><br/>
     </td>
     <td align="center" width="340" bgcolor="#1a2e2e">
       <br/>
       🖼<br/>
-      <b><code>06</code> Depth Homepage</b><br/><br/>
+      <b><code>08</code> Depth Homepage</b><br/><br/>
     </td>
   </tr>
 </table>
