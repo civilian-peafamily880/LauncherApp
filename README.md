@@ -42,9 +42,7 @@
     <td align="center" width="340" bgcolor="#1a0f2e">
       <br/>
       🔥<br/>
-      <b><code>02</code> Habit Heatmap</b><br/><br/>
-      Track your streaks with a contribution heatmap right on the home screen. Mark habits done directly from the Pill Bar. No app switching, no friction.
-      <br/><br/>
+      <b><code>02</code> Habit Tracker</b><br/><br/>
     </td>
   </tr>
   <tr>
@@ -52,15 +50,11 @@
       <br/>
       💰<br/>
       <b><code>03</code> Money Manager</b><br/><br/>
-      Income and expense widgets that appear only when relevant. Financial clarity without ever leaving your home screen.
-      <br/><br/>
     </td>
     <td align="center" width="340" bgcolor="#2e1a0f">
       <br/>
       🗂️<br/>
-      <b><code>04</code> Adaptive App Drawer</b><br/><br/>
-      List mode for speed. Dynamic search finds any app instantly, exactly as your mind expects.
-      <br/><br/>
+      <b><code>04</code> Fast App Drawer</b><br/><br/>
     </td>
   </tr>
   <tr>
@@ -68,15 +62,23 @@
       <br/>
       🎨<br/>
       <b><code>05</code> Thematic Color Palettes</b><br/><br/>
-      Fully dynamic, aesthetic-driven color tokens. Personalize the entire launcher interface with beautifully crafted palettes to perfectly match your vibe.
-      <br/><br/>
     </td>
     <td align="center" width="340" bgcolor="#1a2e2e">
       <br/>
       ⚡<br/>
       <b><code>06</code> Fluid & Efficient</b><br/><br/>
-      Built with a highly optimized core. Low memory footprint, smooth animations, and entirely free of distractions or ads.
-      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="340" bgcolor="#2e1a2e">
+      <br/>
+      🕒<br/>
+      <b><code>05</code> Custom Clock</b><br/><br/>
+    </td>
+    <td align="center" width="340" bgcolor="#1a2e2e">
+      <br/>
+      🖼<br/>
+      <b><code>06</code> Depth Homepage</b><br/><br/>
     </td>
   </tr>
 </table>
