@@ -113,6 +113,27 @@
 </div>
 
 ---
+
+<div align="center">
+
+### 🔃 Update
+
+| Feature                  | Status       | Release | Reject |
+|------------------------|--------------|-----------|----------|
+| Receipt Scanner | Review | |✅|
+| Senior Mode | Pending | | |
+| Kids Mode | Pending | | |
+| Liquid Glass Effect | In Progress| | |
+| AI Integration | Backlog | | |
+| Prayer Time | Backlog | | |
+| Football League Info | Backlog | | |
+| Exchange Rate Currency | Pending | | |
+| Motivation Word | Backlog | | |
+
+📋 Backlog &nbsp;·&nbsp; ⏳ Pending &nbsp;·&nbsp; ⏸️ Deferred &nbsp;·&nbsp; 🔨 In Progress &nbsp;·&nbsp; 🧪 Testing &nbsp;·&nbsp; 👀 Review &nbsp;·&nbsp; ✅ Done
+</div>
+
+---
 ### ⚠️ Google Play Protect Warning
 Google Play Protect may flag this APK as an unrecognized app because it is not distributed through the Google Play Store. Rest assured, this app is **completely safe**. If you encounter any issues during your first installation, please follow these steps:
 
