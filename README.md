@@ -125,7 +125,7 @@
 | Widget Integration | Testing | | |
 | Senior Mode | Pending | | |
 | Kids Mode | Pending | | |
-| Liquid Glass Effect | In Progress| | |
+| Liquid Glass Effect | Fix Bug | | |
 | AI Integration | Backlog | | |
 | Prayer Time | In Progress | | |
 | Football League Info | Backlog | | |
